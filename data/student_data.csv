@@ -1,0 +1,21 @@
+student_id,exam,subject,study_hours,mock_score,questions_attempted,correct_answers,wrong_answers,accuracy,performance_score
+S001,SSC CGL,Maths,3,72,50,36,14,72,72
+S002,SSC CGL,Reasoning,4,84,50,42,8,84,84
+S003,SSC CGL,English,2,68,50,34,16,68,68
+S004,SSC CGL,GK,2,54,50,27,23,54,54
+S005,Railway NTPC,Maths,4,78,50,39,11,78,78
+S006,Railway NTPC,Reasoning,3,82,50,41,9,82,82
+S007,Railway NTPC,General Science,2,60,50,30,20,60,60
+S008,Railway Group D,GK,2,58,50,29,21,58,58
+S009,Railway Group D,Maths,3,74,50,37,13,74,74
+S010,SSC CHSL,English,3,80,50,40,10,80,80
+S011,SSC CHSL,Reasoning,4,88,50,44,6,88,88
+S012,SSC GD,GK,2,52,50,26,24,52,52
+S013,SSC CPO,Reasoning,4,86,50,43,7,86,86
+S014,SSC CPO,English,3,76,50,38,12,76,76
+S015,Railway NTPC,General Science,3,70,50,35,15,70,70
+S016,SSC CGL,Maths,5,90,50,45,5,90,90
+S017,SSC CGL,English,4,85,50,43,7,86,85
+S018,Railway Group D,Reasoning,3,79,50,40,10,80,79
+S019,SSC CHSL,GK,3,65,50,33,17,66,65
+S020,Railway NTPC,Maths,5,92,50,46,4,92,92
